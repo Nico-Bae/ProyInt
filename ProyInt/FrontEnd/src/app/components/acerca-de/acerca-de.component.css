@@ -25,7 +25,7 @@ div{
         border-radius: 100%; /*bordes del 100 % (la foto aparece redonda)*/
         box-shadow: 3px 3px 3px grey; /*sombrita al rededor de la foto*/
         left: 33%;
-        top:630px;
+        top: 950px;
     }
 }
 /*etiqueta nombre*/
